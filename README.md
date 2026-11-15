@@ -28,7 +28,7 @@ Open the project folder and run `index.html` in your browser, or use VS Code Liv
 ### 📬 Connect With Me
 
 - **GitHub:** [susmita-del](https://github.com/susmita-del)
-- **Live Portfolio:** [Visit Website](YOUR-PORTFOLIO-URL)
+- **Live Portfolio:** [Visit Website](https://susmitasamanta-portfolio.vercel.app)
 
 ---
 
